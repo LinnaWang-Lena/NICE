@@ -66,8 +66,6 @@ Experiments are conducted using 6 widely used classifiers:
 - Support Vector Machine (SVM)  
 - XGBoost  
 
-All random seeds are fixed for reproducibility. Detailed hyperparameters are provided in the code.
-
 ---
 
 ## 📏 Evaluation Metrics
