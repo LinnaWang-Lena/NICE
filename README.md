@@ -80,9 +80,3 @@ All random seeds are fixed for reproducibility. Detailed hyperparameters are pro
 ### Counterfactual Quality
 - **Sparsity** — percentage of altered features  
 - **Proximity** — distance between counterfactual and original instance  
-
----
-
-## 🚀 Citation
-
-If you find this work useful, please consider citing:
